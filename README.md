@@ -24,7 +24,7 @@ Dashboard Features
 - Interactive filters using slicers
 - Geographic visualization using a map
 
-Project Objective
+Project Objective 
 
 The objective of this project is to analyze sales data, identify useful patterns, and present business insights through an interactive Excel dashboard.
 
